@@ -1,0 +1,23 @@
+<!DOCTYPE AutoOglas [
+
+<!ELEMENT AutoOglas (Automobil)+>
+<!ELEMENT Automobil (Proizvodjac, Model, Godiste, Farba, ZapreminaMotora, Transmisija, Gorivo, Cena, KontaktProdavca)>
+<!ELEMENT Proizvodjac (#PCDATA)>
+<!ELEMENT Model (#PCDATA)>
+<!ATTLIST Model tip CDATA #IMPLIED>
+<!ELEMENT Godiste (#PCDATA)>
+<!ELEMENT Farba (boja)>
+<!ATTLIST Farba tip (akril | metalik) #REQUIRED>
+<!ELEMENT ZapreminaMotora (#PCDATA)>
+<!ATTLIST ZapreminaMotora jedinica (ccm | l) #IMPLIED> 
+<!ELEMENT Transmisija (brojbrzina)>
+<!ATTLIST Transmisija tip (manuelni | auto) #REQUIRED>
+<!ELEMENT Gorivo (#PCDATA)>
+<!ATTLIST Gorivo tng (da | ne) #IMPLIED>
+<!ELEMENT Cena (#PCDATA)>
+<!ATTLIST Cena valuta (din | eur) #IMPLIED>
+<!ELEMENT KontaktProdavca (#PCDATA)>
+<!ELEMENT boja (#PCDATA)>
+<!ELEMENT brojbrzina (#PCDATA)> ]>
+ 
+ 

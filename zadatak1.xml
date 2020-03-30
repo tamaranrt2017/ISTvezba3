@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MojiPodaci>
+<PunoIme>
+<Ime>Tamara</Ime>
+<Prezime> Savić </Ime>
+</PunoIme>
+
+<DatumRodjenja>
+<Dan> 23 </Dan>
+<Mesec> 06 </Mesec>
+<Godina> 1998 </Godina> 
+</DatumRodjenja>
+
+<Adresa>
+<Ulica> Nikola Tesla 20 </Ulica>
+<Naselje> Djajino brdo </Naselje>
+<Grad> Arandjelovac </Grad>
+<Drzava> Srbija </Drzava>
+<ptt> 34300 </ptt>
+</Adresa>
+</MojiPodaci> 

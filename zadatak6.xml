@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTR-8"?>
+<!DOCTYPE fakultet SYSTEM "zadatak6.dtd"> 
+<fakultet>
+
+<student status="studira" indeks="20/17">
+    <osoba>
+         <ime>Milan  </ime>
+        <prezime>Lajkovic </prezime>
+        <mestoRodjenja> Mladenovac</mestoRodjenja>
+        <datumRodjenja>23.05.1998 </datumRodjenja>
+
+
+    </osoba>
+    <upisi>
+ <semestar broj="1" godine="2017" vrsta="budzet"> Prvi </semestar>
+ 
+ </upisi>
+
+</student>
+</fakultet> 

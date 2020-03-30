@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inbox xmlns:mail="http://viser.edu.rs/mail">
+<mail:email>
+<mail:posiljalac> </mail:posiljalac>
+<mail:primalac> </mail:primalac> 
+<mail:CC> </mail:CC>
+<mail:BCC> </mail:BCC> 
+<mail:Naslov> </mail:Naslov>
+<mail:tekst> </mail:tekst>
+<mail:datum> </mail:datum> 
+</mail:email>
+</Inbox>

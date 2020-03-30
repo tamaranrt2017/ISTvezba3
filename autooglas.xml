@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd"> 
+<AutoOglas>
+<Automobil>
+<Proizvodjac>Honda</Proizvodjac>
+<Model tip="SUV"> CR-V </Model>
+<Godiste> 2015 </Godiste> 
+<Farba tip="matalik"> <boja>Crna </boja> </Farba>
+<ZapreminaMotora jedinica="ccm"> 1597</ZapreminaMotora>
+<Transmisija tip="auto"> <brojbrzina> 6 brzina </brojbrzina></Transmisija>
+<Gorivo tng="ne"> Dizel</Gorivo>
+<Cena valuta="eur">13.600 </Cena>
+<KontaktProdavca> Marko, 0611111111 </KontaktProdavca>
+</Automobil>
+
+
+<Automobil>
+<Proizvodjac>Volkswagen</Proizvodjac>
+<Model tip="Hecbek"> Golf6 </Model>
+<Godiste> 2009 </Godiste> 
+<Farba tip="matalik"> Bela</Farba>
+<ZapreminaMotora jedinica="ccm"> 1968</ZapreminaMotora>
+<Transmisija tip="manuelni"> 6 brzina</Transmisija>
+<Gorivo tng="ne">Dizel </Gorivo>
+<Cena valuta="eur">7.200 </Cena>
+<KontaktProdavca> Milos, 0611111111 </KontaktProdavca>
+
+
+</Automobil>
+</AutoOglas> 
